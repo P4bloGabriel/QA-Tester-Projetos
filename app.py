@@ -1,1 +1,0 @@
-print ("Plano de teste")
